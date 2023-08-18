@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7fb47c3.css",
+    "main.js": "/static/js/main.84b70b5e.js",
+    "static/media/signup.jpg": "/static/media/signup.40e87cc49ed1b00720b0.jpg",
+    "static/media/blue1012.jpg": "/static/media/blue1012.fea141e6eee8cbd11224.jpg",
+    "static/media/blue.jpg": "/static/media/blue.80b127de2352cb4d46fe.jpg",
+    "static/media/green1417.jpg": "/static/media/green1417.5c7257cd8738622dab27.jpg",
+    "static/media/sonyroll.jpg": "/static/media/sonyroll.85468fa48c8320fec81e.jpg",
+    "static/media/developer.jpeg": "/static/media/developer.ce470605f334bded1f53.jpeg",
+    "static/media/fixer.jpeg": "/static/media/fixer.ddc17880f81365adb8fa.jpeg",
+    "static/media/HomePage Image.jpg": "/static/media/HomePage Image.b7ef5887c515009bfe98.jpg",
+    "index.html": "/index.html",
+    "main.e7fb47c3.css.map": "/static/css/main.e7fb47c3.css.map",
+    "main.84b70b5e.js.map": "/static/js/main.84b70b5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7fb47c3.css",
+    "static/js/main.84b70b5e.js"
+  ]
+}
